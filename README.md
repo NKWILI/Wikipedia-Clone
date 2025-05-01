@@ -7,13 +7,7 @@ A simple and responsive Wikipedia search application built with **HTML**, **CSS*
 
 ## 🌐 Live Demo
 
-[🔗 View Live Project](#) <!-- Replace # with the actual deployed link -->
-
----
-
-## 📸 Screenshots
-
-![Screenshot](#) <!-- Add the actual image link or file name -->
+[🔗 View Live Project](https://nkwili.github.io/Wikipedia-Clone/) <!-- Replace # with the actual deployed link -->
 
 ---
 
